@@ -1,7 +1,7 @@
 # google-analytics-template
 Simple template to kickstart your google analytics projects.
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -41,4 +41,4 @@ Simple template to kickstart your google analytics projects.
 </body>
 
 </html>
-'''
+```
