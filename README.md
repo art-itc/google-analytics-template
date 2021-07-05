@@ -1,7 +1,7 @@
 # google-analytics-template
 Simple template to kickstart your google analytics projects.
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
